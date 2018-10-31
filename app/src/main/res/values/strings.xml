@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewIntetResponseBundle</string>
+    <string name="fBtn">First Button</string>
+    <string name="ftvReturnValue">Return Value</string>
+    <string name="fetsavevalue">Save Value</string>
+    <string name="stvTitle">Second Activity</string>
+    <string name="setsavevalue">save Value</string>
+    <string name="sbtn">Second Button</string>
+    <string name="stvReturnValue">Return Value</string>
+    <string name="ftvTitle">First Activity</string>
+</resources>
